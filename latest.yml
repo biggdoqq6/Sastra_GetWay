@@ -1,0 +1,8 @@
+version: 2.0.0
+files:
+  - url: SastraGetWay-Setup-2.0.0.exe
+    sha512: SNGmL08VsopCYmMl3j6/ewJN5BMLzdb59KJbkh5oQ+Su9tWgczi84QneE3TfAfXiESRJmCqEEgpgVo55ZI2flw==
+    size: 139324973
+path: SastraGetWay-Setup-2.0.0.exe
+sha512: SNGmL08VsopCYmMl3j6/ewJN5BMLzdb59KJbkh5oQ+Su9tWgczi84QneE3TfAfXiESRJmCqEEgpgVo55ZI2flw==
+releaseDate: '2026-11-05T05:28:03.127Z'
