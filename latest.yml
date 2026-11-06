@@ -1,8 +1,8 @@
-version: 2.0.2
+version: 2.0.3
 files:
-  - url: SastraGetWay-Setup-2.0.2.exe
-    sha512: u55Q4QF0X+4bzHBJTpkNCLQURaZWZIfRch8GXMHHnE6xCtVfuF7INrPt/YXVQX04Vto3gZCfkX/IYUBmVizw0w==
-    size: 139338945
-path: SastraGetWay-Setup-2.0.2.exe
-sha512: u55Q4QF0X+4bzHBJTpkNCLQURaZWZIfRch8GXMHHnE6xCtVfuF7INrPt/YXVQX04Vto3gZCfkX/IYUBmVizw0w==
-releaseDate: '2026-11-06T10:26:48.633Z'
+  - url: SastraGetWay-Setup-2.0.3.exe
+    sha512: mCOsDKAoB4jYP5JvHx5Oh8OIBXO7LAVLCraErOA5fxWcWhM/W0Fhw4+H79XqufABZjXWUctLZxly5pG770zR9g==
+    size: 139344125
+path: SastraGetWay-Setup-2.0.3.exe
+sha512: mCOsDKAoB4jYP5JvHx5Oh8OIBXO7LAVLCraErOA5fxWcWhM/W0Fhw4+H79XqufABZjXWUctLZxly5pG770zR9g==
+releaseDate: '2026-11-06T11:08:47.646Z'
